@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+ENV/
+.venv/
+
+# Build directories (where your HTML website will be generated)
+site/
+build/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
