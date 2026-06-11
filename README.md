@@ -1,9 +1,13 @@
-FieldSync Service API
+# FieldSync Service API
 
-Concept
-A fictional cloud-based platform that connects field service engineers, job assignments, equipment data, and maintenance logs. 
+## Concept
+> This fictional API aims to connect field service engineers, job assignments, equipment data, and maintenance logs.
 
-The goal is to connect this fictional API to:
+## Aligning with my documentation domain
 
-Service manuals
-Field service workflows
+> I develop service manuals and this fictional API will be useful if it can connect with service manuals and Field service workflows 
+
+## My aim for this Fictional API 
+> Design and document a RESTful API for a field service management platform, translating complex operational workflows into structured, developer-friendly documentation. 
+
+> Focus on clarity, scalability, and usability across global engineering teams
