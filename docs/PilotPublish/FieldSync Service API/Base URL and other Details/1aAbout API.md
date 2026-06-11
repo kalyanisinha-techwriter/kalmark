@@ -4,5 +4,5 @@
 ## Concept
 > This is a cloud-based platform that connects field service engineers, job assignments, equipment data, and maintenance logs. The API enables integration with external systems (CRM, asset management, analytics tools).
 
-> All API requests should be made to:
+> Make all API requests to:
 https://api.fieldsync.com/v1
