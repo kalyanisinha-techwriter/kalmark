@@ -5,7 +5,7 @@
     * Marketing site (www.fieldsync.com)
     * Customer portal (app.fieldsync.com)
 
-* Signals scalability and architectural discipline
+* This Signals scalability and architectural discipline
 
 
 
