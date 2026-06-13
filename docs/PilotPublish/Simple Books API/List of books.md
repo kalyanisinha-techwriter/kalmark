@@ -10,13 +10,13 @@ The endpoint is books
 > baseUrl is a variable. 
 > The API is set as a variable and its value is defined as baseUrl
 
-![books endpoint](books endpoint.png)
+![books endpoint](booksendpoint.png)
 
 ## Response
 
 > The response body displays the 200 ok status
 > This response shows the list of books
-![list of books](list of books.png)
+![list of books](listofbooks.png)
 
 ## optional query parameters for the `books` endpoint
 > type: fiction or non-fiction
@@ -28,12 +28,13 @@ The endpoint is books
 > Acceptable value for `type` is fiction or non-fiction. The value used here is `crime` .
 > This results in the status 400 bad request
 
-![query parameter](Query param type value 1.png)
+![query parameter](Queryparamtypevalue1.png)
+
 
 > The error message indicates that either `fiction` or `non-fiction` be used as VALUE
 >
 > when the VALUE `fiction` is used - 
 
-![alt text](Query param type value 2.png)
+![alt text](Queryparamtypevalue2.png)
 
 > Also see the status has now changed to 200 OK
